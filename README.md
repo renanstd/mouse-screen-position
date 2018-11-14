@@ -6,5 +6,6 @@ Pequena aplicação que exibe a posição X e Y do mouse na tela, assim como a c
 
 Requer a instalação do pacote *scrot* para funcionar.
 - sudo apt install scrot
+
 ou
 - sudo pacman -S scrot
